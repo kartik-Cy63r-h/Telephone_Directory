@@ -1,0 +1,8 @@
+Insert Eve 6100000 AddrE
+Insert George 6100000 AddrG_Duplicate
+Insert Helen 6200000 AddrH
+Modify 6200000 AddrH2 6100000
+Delete 6100000
+Modify 6200000 AddrH3 6100000
+Delete 9999999
+Print

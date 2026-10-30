@@ -1,0 +1,8 @@
+Insert Alice 123456 Some_Address
+Insert Bob 12345678 Some_Address
+Insert Carol 0482910 Some_Address
+Insert Dan 548291A Some_Address
+Insert Eve 5482910 Real_Address
+Delete 048291
+Modify 5482910 New_Address 048291X
+Print

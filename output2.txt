@@ -1,0 +1,212 @@
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Failure: Table full
+Success
+Success
+T 1:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty
+T 2:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty
+T 3:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty
+T 4:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty
+T 5:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty
+T 6:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty
+T 7:
+0: P0, 7000000, A0
+1: P1, 7000001, A1
+2: P2, 7000002, A2
+3: P3, 7000003, A3
+4: P4, 7000004, A4
+5: P5, 7000005, A5
+6: P6, 7000006, A6
+7: P7, 7000007, A7
+8: P8, 7000008, A8
+9: P9, 7000009, A9
+10: Overflow, 7000020, Reclaimed_Slot
+11: P11, 7000011, A11
+12: P12, 7000012, A12
+13: P13, 7000013, A13
+14: P14, 7000014, A14
+15: P15, 7000015, A15
+16: P16, 7000016, A16
+17: P17, 7000017, A17
+18: P18, 7000018, A18
+19: P19, 7000019, A19
+T 8:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty
+T 9:
+0: empty
+1: empty
+2: empty
+3: empty
+4: empty
+5: empty
+6: empty
+7: empty
+8: empty
+9: empty
+10: empty
+11: empty
+12: empty
+13: empty
+14: empty
+15: empty
+16: empty
+17: empty
+18: empty
+19: empty

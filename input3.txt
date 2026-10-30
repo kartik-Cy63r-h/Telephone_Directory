@@ -1,0 +1,8 @@
+Insert R1 4000018 Addr1
+Insert R2 4000038 Addr2
+Insert R3 4000058 Addr3
+Insert R4 4000078 Addr4
+Delete 4000038
+Delete 4000099
+Modify 4000058 NewAddr 4000019
+Print
